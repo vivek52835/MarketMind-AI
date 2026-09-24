@@ -1,0 +1,45 @@
+markets:
+  EURUSD:
+    provider_symbol: EURUSD=X
+    asset_class: forex
+    name: EUR/USD
+  GBPUSD:
+    provider_symbol: GBPUSD=X
+    asset_class: forex
+    name: GBP/USD
+  USDJPY:
+    provider_symbol: JPY=X
+    asset_class: forex
+    name: USD/JPY
+  USDINR:
+    provider_symbol: INR=X
+    asset_class: forex
+    name: USD/INR
+  XAUUSD:
+    provider_symbol: GC=F
+    asset_class: metal
+    name: Gold (XAU/USD)
+  XAGUSD:
+    provider_symbol: SI=F
+    asset_class: metal
+    name: Silver (XAG/USD)
+  CL:
+    provider_symbol: CL=F
+    asset_class: commodity
+    name: Crude oil
+  SPX:
+    provider_symbol: ^GSPC
+    asset_class: index
+    name: S&P 500
+  NDX:
+    provider_symbol: ^NDX
+    asset_class: index
+    name: Nasdaq 100
+  BTCUSD:
+    provider_symbol: BTC-USD
+    asset_class: crypto
+    name: Bitcoin
+  ETHUSD:
+    provider_symbol: ETH-USD
+    asset_class: crypto
+    name: Ethereum

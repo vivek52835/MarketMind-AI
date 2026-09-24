@@ -1,0 +1,8 @@
+pandas>=2.2,<3
+numpy>=1.26,<3
+SQLAlchemy>=2.0,<3
+pydantic>=2.7,<3
+pydantic-settings>=2.2,<3
+PyYAML>=6.0,<7
+yfinance>=0.2.40,<1
+pytest>=8.0,<9
